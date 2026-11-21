@@ -33,7 +33,7 @@ The game is free, with no ads and no in-app purchases. It does not ask for inter
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Built with three.js (MIT license). All models, textures, sounds and music were generated in code for this game; the text uses your phone's system fonts.
 
@@ -66,7 +66,7 @@ Oyun ücretsizdir; reklam ve uygulama içi satın alma yoktur. İnternet izni is
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 three.js ile yapıldı (MIT lisansı). Bütün modeller, dokular, sesler ve müzik bu oyun için kodla üretildi; yazılarda telefonun kendi yazı tipleri kullanılır.
 
