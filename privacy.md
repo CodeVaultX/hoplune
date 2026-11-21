@@ -4,7 +4,7 @@ title: Hoplune — Privacy Policy
 
 # Hoplune — Privacy Policy
 
-*Last updated: November 6, 2026*
+*Last updated: November 21, 2026*
 
 [Türkçe](#türkçe)
 
@@ -15,6 +15,7 @@ Hoplune: Sky Parkour is a game for Android. It has no accounts, no servers, no a
 - Your progress (finished levels, stars, coins, outfits and settings) is saved **only on your phone**, in the game's private storage.
 - There is no account with us. We have no servers, so your progress is never uploaded anywhere.
 - The game turns off Android's automatic app backup, so its save file is not copied to a cloud backup either.
+- If you move to a new phone with Android's phone-to-phone transfer, your progress moves with it. This happens directly between your two phones; it does not pass through us.
 
 ## No internet access
 
@@ -49,7 +50,7 @@ luneapps.support@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 6 Kasım 2026*
+*Son güncelleme: 21 Kasım 2026*
 
 Hoplune: Gökyüzü Parkuru bir Android oyunudur. Hesabı, sunucusu, reklamı ve uygulama içi satın alması yoktur; ad, e-posta ya da başka bir kişisel bilgi asla istemez. Telefonundan hiçbir şey dışarı çıkmaz.
 
@@ -58,6 +59,7 @@ Hoplune: Gökyüzü Parkuru bir Android oyunudur. Hesabı, sunucusu, reklamı ve
 - İlerlemen (bitirdiğin bölümler, yıldızlar, paralar, kıyafetler ve ayarlar) **yalnızca telefonunda**, oyunun kendi özel alanında saklanır.
 - Bizde bir hesabın yok. Sunucumuz olmadığı için ilerlemen hiçbir yere yüklenmez.
 - Oyun, Android'in otomatik uygulama yedeklemesini kapatır; kayıt dosyası bulut yedeğine de kopyalanmaz.
+- Yeni telefona Android'in telefondan telefona aktarımıyla geçersen ilerlemen de taşınır. Bu aktarım iki telefonun arasında olur, bize uğramaz.
 
 ### İnternet erişimi yok
 

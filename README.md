@@ -23,6 +23,7 @@ A 3D obstacle course game for Android: hop across floating islands made of block
 ## Features
 
 - **25 levels in 5 worlds:** Grass Trail, Candy Factory, Ice Peak, Lava Castle and Cloud Temple. Each world has 5 levels, and they get harder as you go: moving platforms, conveyor belts, spinning bars, crumbling blocks, slippery ice, lava traps and wind columns.
+- **Endless Trail:** finish Cloud Temple to open a door to courses that never end. Each level is generated on your phone from its number and checked to be beatable before you play it.
 - **5 lives per level:** every fall costs a life, and checkpoint flags keep your place. Run out of lives and the level starts again. No ads, no waiting.
 - **Stars and coins:** earn up to 3 stars in every level by finishing it, grabbing every coin and beating the target time.
 - **Wardrobe:** dress up your character with colours, faces, hats, back items and trails. The rarest items are unlocked with stars.
@@ -56,6 +57,7 @@ Android için 3D engel parkuru oyunu: bloklardan yapılmış uçan adalarda, 5 d
 ### Özellikler
 
 - **5 dünyada 25 bölüm:** Çimen Patikası, Şeker Fabrikası, Buz Zirvesi, Lav Kalesi ve Bulut Tapınağı. Her dünyada 5 bölüm var ve ilerledikçe zorlaşıyor: gezen platformlar, yürüyen bantlar, dönen çubuklar, çöken bloklar, kaygan buz, lav tuzakları ve rüzgâr sütunları.
+- **Sonsuz Yol:** Bulut Tapınağı'nı bitirince bitmeyen parkurlara açılan kapı açılır. Her bölüm numarasından telefonunda kurulur ve sen oynamadan önce geçilebilir olduğu denetlenir.
 - **Her bölümde 5 can:** her düşüş bir can götürür, bayraklar kaldığın yeri tutar. Canlar biterse bölüm baştan başlar. Reklam yok, bekleme yok.
 - **Yıldızlar ve paralar:** her bölümde bitirerek, bütün paraları toplayarak ve hedef süreyi geçerek 3 yıldıza kadar kazan.
 - **Dolap:** karakterini renklerle, yüzlerle, şapkalarla, sırt eşyalarıyla ve izlerle giydir. En nadir parçalar yıldızla açılır.
